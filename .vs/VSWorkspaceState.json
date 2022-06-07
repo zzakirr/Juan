@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\myJuan",
+    "\\myJuan\\Areas",
+    "\\myJuan\\Areas\\Manage",
+    "\\myJuan\\Areas\\Manage\\Views",
+    "\\myJuan\\Areas\\Manage\\Views\\Dashboard"
   ],
+  "SelectedNode": "\\myJuan\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

@@ -21,7 +21,7 @@ namespace myJuan
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(options =>
             {
-                options.UseSqlServer(@"Server=DESKTOP-KA8SSD4;Database=Juan;Trusted_Connection=TRUE");
+                options.UseSqlServer("Server=CAPR11;Database=Juan;Trusted_Connection=TRUE");
             });
         }
 

@@ -8475,24 +8475,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zzakirr\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\bduguest\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzakirr\\Desktop\\MyJuan\\myJuan\\myJuan.csproj",
+      "projectUniqueName": "C:\\Users\\bduguest\\Desktop\\Juan\\myJuan\\myJuan.csproj",
       "projectName": "myJuan",
-      "projectPath": "C:\\Users\\zzakirr\\Desktop\\MyJuan\\myJuan\\myJuan.csproj",
-      "packagesPath": "C:\\Users\\zzakirr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzakirr\\Desktop\\MyJuan\\myJuan\\obj\\",
+      "projectPath": "C:\\Users\\bduguest\\Desktop\\Juan\\myJuan\\myJuan.csproj",
+      "packagesPath": "C:\\Users\\bduguest\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bduguest\\Desktop\\Juan\\myJuan\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\zzakirr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\bduguest\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
